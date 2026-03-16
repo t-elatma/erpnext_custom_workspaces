@@ -1,7 +1,7 @@
 [
  {
   "doctype": "Workspace",
-  "module": "ERPNext Custom Workspaces",
+  "module": "Custom Workspaces",
   "label": "Operations",
   "name": "Operations Workspace",
   "icon": "settings",
@@ -12,7 +12,7 @@
  },
  {
   "doctype": "Workspace",
-  "module": "ERPNext Custom Workspaces",
+  "module": "Custom Workspaces",
   "label": "Sales Control",
   "name": "Sales Workspace",
   "icon": "sales-order",
@@ -23,7 +23,7 @@
  },
  {
   "doctype": "Workspace",
-  "module": "ERPNext Custom Workspaces",
+  "module": "Custom Workspaces",
   "label": "Accounting Control",
   "name": "Accounting Workspace",
   "icon": "accounts",

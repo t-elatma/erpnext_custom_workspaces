@@ -9,7 +9,7 @@ fixtures = [
     {
         "dt": "Workspace",
         "filters": [
-            ["module", "=", "ERPNext Custom Workspaces"]
+            ["module", "=", "Custom Workspaces"]
         ]
     }
 ]

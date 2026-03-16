@@ -1,1 +1,1 @@
-ERPNext Custom Workspaces
+Custom Workspaces
