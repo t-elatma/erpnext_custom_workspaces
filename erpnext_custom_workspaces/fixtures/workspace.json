@@ -2,8 +2,9 @@
  {
   "doctype": "Workspace",
   "module": "Custom Workspaces",
-  "label": "Operations",
   "name": "Operations Workspace",
+  "label": "Operations",
+  "title": "Operations",
   "icon": "settings",
   "color": "#1ABC9C",
   "public": 0,
@@ -13,8 +14,9 @@
  {
   "doctype": "Workspace",
   "module": "Custom Workspaces",
-  "label": "Sales Control",
   "name": "Sales Workspace",
+  "label": "Sales Control",
+  "title": "Sales Control",
   "icon": "sales-order",
   "color": "#3498DB",
   "public": 0,
@@ -24,8 +26,9 @@
  {
   "doctype": "Workspace",
   "module": "Custom Workspaces",
-  "label": "Accounting Control",
   "name": "Accounting Workspace",
+  "label": "Accounting Control",
+  "title": "Accounting Control",
   "icon": "accounts",
   "color": "#9B59B6",
   "public": 0,
