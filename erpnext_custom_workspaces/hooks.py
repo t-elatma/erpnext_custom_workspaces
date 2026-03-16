@@ -11,5 +11,11 @@ fixtures = [
         "filters": [
             ["module", "=", "Custom Workspaces"]
         ]
+    },
+    {
+        "dt": "Role",
+        "filters": [
+            ["name", "in", ["My Company Operations Manager", "My Company Sales Manager", "My Company Accounts Manager"]]
+        ]
     }
 ]
