@@ -1,14 +1,17 @@
 [
  {
   "doctype": "Role",
-  "role_name": "My Company Operations Manager"
+  "role_name": "My Company Operations Manager",
+  "name": "My Company Operations Manager"
  },
  {
   "doctype": "Role",
-  "role_name": "My Company Sales Manager"
+  "role_name": "My Company Sales Manager",
+  "name": "My Company Sales Manager"
  },
  {
   "doctype": "Role",
-  "role_name": "My Company Accounts Manager"
+  "role_name": "My Company Accounts Manager",
+  "name": "My Company Accounts Manager"
  }
 ]
