@@ -1,6 +1,7 @@
 [
  {
   "doctype": "Workspace",
+  "name": "operations-workspace",
   "module": "Custom Workspaces",
   "label": "Operations",
   "title": "Operations",
@@ -12,6 +13,7 @@
  },
  {
   "doctype": "Workspace",
+  "name": "sales-workspace",
   "module": "Custom Workspaces",
   "label": "Sales Control",
   "title": "Sales Control",
@@ -23,6 +25,7 @@
  },
  {
   "doctype": "Workspace",
+  "name": "accounting-workspace",
   "module": "Custom Workspaces",
   "label": "Accounting Control",
   "title": "Accounting Control",
