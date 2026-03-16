@@ -1,0 +1,6 @@
+include *.json
+include *.md
+include *.txt
+recursive-include erpnext_custom_workspaces *.json
+recursive-include erpnext_custom_workspaces *.md
+recursive-include erpnext_custom_workspaces *.py

@@ -1,0 +1,50 @@
+[
+ {
+  "doctype": "Workspace",
+  "module": "ERPNext Custom Workspaces",
+  "name": "Operations Workspace",
+  "label": "Operations",
+  "icon": "settings",
+  "color": "#1ABC9C",
+  "public": 0,
+  "is_hidden": 0,
+  "roles": [
+   {
+    "role": "Operations Manager"
+   }
+  ],
+  "content": "[{\"type\":\"header\",\"data\":{\"text\":\"Operations\"}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Work Order\"}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Stock Entry\"}}]"
+ },
+ {
+  "doctype": "Workspace",
+  "module": "ERPNext Custom Workspaces",
+  "name": "Sales Workspace",
+  "label": "Sales Control",
+  "icon": "sales-order",
+  "color": "#3498DB",
+  "public": 0,
+  "is_hidden": 0,
+  "roles": [
+   {
+    "role": "Sales Manager"
+   }
+  ],
+  "content": "[{\"type\":\"header\",\"data\":{\"text\":\"Sales\"}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sales Order\"}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Customer\"}}]"
+ },
+ {
+  "doctype": "Workspace",
+  "module": "ERPNext Custom Workspaces",
+  "name": "Accounting Workspace",
+  "label": "Accounting Control",
+  "icon": "accounts",
+  "color": "#9B59B6",
+  "public": 0,
+  "is_hidden": 0,
+  "roles": [
+   {
+    "role": "Accounts Manager"
+   }
+  ],
+  "content": "[{\"type\":\"header\",\"data\":{\"text\":\"Accounting\"}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sales Invoice\"}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Payment Entry\"}}]"
+ }
+]

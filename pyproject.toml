@@ -1,0 +1,12 @@
+[project]
+name = "erpnext_custom_workspaces"
+authors = [
+    { name = "Tamer", email = "ph.tamir@gmail.com"}
+]
+description = "Custom Workspaces for ERPNext"
+requires-python = ">=3.10"
+dynamic = ["version"]
+
+[build-system]
+requires = ["flit_core >=3.4,<4"]
+build-backend = "flit_core.buildapi"
