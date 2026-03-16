@@ -1,7 +1,7 @@
 app_name = "erpnext_custom_workspaces"
 app_title = "ERPNext Custom Workspaces"
 app_publisher = "My Company"
-app_description = "Custom workspaces for ERPNext"
+app_description = "Custom Workspaces for ERPNext"
 app_email = "ph.tamir@gmail.com"
 app_license = "MIT"
 
