@@ -1,0 +1,14 @@
+[
+ {
+  "doctype": "Role",
+  "role_name": "My Company Operations Manager"
+ },
+ {
+  "doctype": "Role",
+  "role_name": "My Company Sales Manager"
+ },
+ {
+  "doctype": "Role",
+  "role_name": "My Company Accounts Manager"
+ }
+]

@@ -2,37 +2,34 @@
  {
   "doctype": "Workspace",
   "module": "Custom Workspaces",
-  "name": "Operations Workspace",
   "label": "Operations",
   "title": "Operations",
   "icon": "settings",
   "color": "#1ABC9C",
-  "public": 0,
-  "roles": [{"role": "Operations Manager"}],
+  "public": 1,
+  "roles": [{"role": "My Company Operations Manager"}],
   "content": "[{\"type\":\"header\",\"data\":{\"text\":\"Operations\"}}]"
  },
  {
   "doctype": "Workspace",
   "module": "Custom Workspaces",
-  "name": "Sales Workspace",
   "label": "Sales Control",
   "title": "Sales Control",
   "icon": "sales-order",
   "color": "#3498DB",
-  "public": 0,
-  "roles": [{"role": "Sales Manager"}],
+  "public": 1,
+  "roles": [{"role": "My Company Sales Manager"}],
   "content": "[{\"type\":\"header\",\"data\":{\"text\":\"Sales\"}}]"
  },
  {
   "doctype": "Workspace",
   "module": "Custom Workspaces",
-  "name": "Accounting Workspace",
   "label": "Accounting Control",
   "title": "Accounting Control",
   "icon": "accounts",
   "color": "#9B59B6",
-  "public": 0,
-  "roles": [{"role": "Accounts Manager"}],
+  "public": 1,
+  "roles": [{"role": "My Company Accounts Manager"}],
   "content": "[{\"type\":\"header\",\"data\":{\"text\":\"Accounting\"}}]"
  }
 ]
